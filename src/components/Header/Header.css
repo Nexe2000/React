@@ -1,0 +1,13 @@
+li{
+    display: inline;
+    margin-left: 100px;
+    color:antiquewhite;
+}
+div{
+    background-color: grey;
+}
+
+.header a {
+    text-decoration: none;
+    color: inherit;
+}
